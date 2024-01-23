@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94da0910.css",
+    "main.js": "/static/js/main.235f3926.js",
+    "static/media/nasa-space-telescope-carina-nebula.jpg": "/static/media/nasa-space-telescope-carina-nebula.ba7ce3288fbec6a6cdaa.jpg",
+    "static/media/profile-logo.jpg": "/static/media/profile-logo.5fb2fe207dc2d4214b54.jpg",
+    "index.html": "/index.html",
+    "main.94da0910.css.map": "/static/css/main.94da0910.css.map",
+    "main.235f3926.js.map": "/static/js/main.235f3926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94da0910.css",
+    "static/js/main.235f3926.js"
+  ]
+}
